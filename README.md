@@ -2,9 +2,9 @@
 
 ## 🧬 Sobre Mim | About Me
 
-**Psicólogo em transição para a área de Dados.** Atualmente, atuo como **Estagiário em Inteligência Comercial**, unindo a análise do comportamento humano com o poder da Inteligência de Negócios (BI).
+**Psicólogo em transição para a área de Dados.** Atualmente, atuo como **Estagiário em Inteligência Comercial** na Opella, unindo a análise do comportamento humano com o poder da Inteligência de Negócios (BI).
 
-**Psychologist transitioning to Data.** Currently working as a **Commercial Intelligence Intern**, merging human behavior analysis with Business Intelligence and Data Analytics.
+**Psychologist transitioning to Data.** Currently working as a **Commercial Intelligence Intern** at Opella, merging human behavior analysis with Business Intelligence and Data Analytics.
 
 ---
 
